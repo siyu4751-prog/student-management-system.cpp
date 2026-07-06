@@ -12,8 +12,9 @@ C++,面向对象程序设计,STL vector,fstream 文件读写
  添加学生信息, 删除学生信息,修改学生信息,查询学生信息,成绩录入与修改,按成绩排序,计算平均分,文件保存与读取
 
  项目结构
+
 ```text
-student-management-system-cpp
+学生管理系统.cpp
 ├── README.md
 ├── src
 │   └── main.cpp
